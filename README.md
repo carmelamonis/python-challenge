@@ -9,6 +9,7 @@ The budget data consist of monthly profit/losses from January 2010 to February 2
  - Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
  - The greatest increase in profits (date and amount) over the entire period
  - The greatest decrease in losses (date and amount) over the entire period
+
 ![Budget Results](images/budget.png)
 
 ### Poll Data
