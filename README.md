@@ -18,6 +18,7 @@ The poll data has over a million rows of data that holds the Voter ID, the voter
  - The percentage of votes each candidate won
  - The total number of votes each candidate won
  - The winner of the election based on popular vote.
+ 
 ![Poll Results](images/poll.png)
 
 #### Note: 
